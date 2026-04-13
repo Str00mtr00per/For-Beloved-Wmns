@@ -17,7 +17,7 @@ const noMessages = [
     "Sedihh niannn.. 😢",
     "Saaayaaang??? 💔",
     "Aaaaa dk galak nian yoo...",
-    "Terakhir niiii! 😭",
+    "Nonoo masak di tolak sihhh 😭",
     "Dk ahh harus bialng yess 😜"
 ]
 
